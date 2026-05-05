@@ -1,16 +1,163 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2332,100:58a6ff&height=120&section=header&text=Krishna%20Kumar%20Singh&fontSize=32&fontColor=e6edf3&fontAlignY=65&desc=Full-Stack%20Engineer%20%7C%20AI%20Systems%20%7C%20SaaS%20Architect&descSize=13&descAlignY=85&descColor=58a6ff" width="100%"/>
+</div>
 
-<!--
-**kksingh000/kksingh000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+```
+  ██╗  ██╗██╗  ██╗    ██████╗ ███████╗██╗   ██╗
+  ██║ ██╔╝██║ ██╔╝    ██╔══██╗██╔════╝██║   ██║
+  █████╔╝ █████╔╝     ██║  ██║█████╗  ██║   ██║
+  ██╔═██╗ ██╔═██╗     ██║  ██║██╔══╝  ╚██╗ ██╔╝
+  ██║  ██╗██║  ██╗    ██████╔╝███████╗ ╚████╔╝
+  ╚═╝  ╚═╝╚═╝  ╚═╝    ╚═════╝ ╚══════╝  ╚═══╝
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+**`// full-stack · ai-powered systems · saas architect`**
+
+Building production-grade platforms at the intersection of backend reliability and AI capability.
+1000+ DSA problems. Ships fast, scales smart.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishna-kumar-singh-084b81256)
+[![Portfolio](https://img.shields.io/badge/Portfolio-38bd8c?style=for-the-badge&logo=vercel&logoColor=white)](https://reyva.co.in)
+[![Codolio](https://img.shields.io/badge/Codolio-d2991b?style=for-the-badge&logo=code&logoColor=white)](https://codolio.com/profile/kksrizzz)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kkandsingh000@gmail.com)
+
+</div>
+
+---
+
+### 🟢 Currently Building
+
+> **SchoolSaavy** — Multi-tenant Laravel + React SaaS platform, live at [schoolsaavy.com](https://schoolsaavy.com)
+> **Indian Legal AI** — RAG-powered assistant scraping IndianKanoon → ChromaDB → GPT-4o-mini
+> Open to **internship / full-time roles** in backend, AI, or full-stack engineering
+
+---
+
+### ⚡ Tech Arsenal
+
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**Backend**
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+**AI / ML**
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logo=databricks&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
+
+**Infra & DB**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+
+---
+
+### 🚀 Live Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**[SchoolSaavy](https://schoolsaavy.com)**
+> Multi-tenant SaaS school management platform. Students, teachers, fees, exams, attendance — all in one. Built with Laravel + React, deployed on Render + Vercel.
+
+`PHP` `Laravel` `React` `MySQL` `Docker`
+
+</td>
+<td width="50%">
+
+**[Indian Legal AI](https://github.com/kksingh000)**
+> RAG-powered legal assistant covering constitutional, criminal, contract, property & family law. IndianKanoon → ChromaDB → GPT-4o-mini pipeline.
+
+`Python` `FastAPI` `LangChain` `OpenAI` `ChromaDB`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[Reyva](https://reyva.co.in)**
+> Production sneaker & sportswear e-commerce. Stripe payments, Clerk auth, real inventory. Fully live.
+
+`TypeScript` `React` `Stripe` `Clerk`
+
+</td>
+<td width="50%">
+
+**[KK Validator](https://kk-validator-frontend.vercel.app)**
+> AI-powered startup idea validator. OpenAI analysis with Supabase persistence. Mock fallback for resilience.
+
+`Node.js` `Express` `OpenAI` `Supabase`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[QuickShow](https://movie-ticket-booking-blue-gamma.vercel.app)**
+> Movie ticket booking with trailer integration. Dark UI, seat selection, full booking flow.
+
+`JavaScript` `React` `Node.js`
+
+</td>
+<td width="50%">
+
+**[Tasque](https://tasque-frontend.vercel.app)**
+> Team task manager with Kanban board. Dark-themed, real-time ready, role-based access.
+
+`React` `Node.js` `PostgreSQL`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=kksingh000&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=38bd8c&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kksingh000&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kksingh000&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=38bd8c&currStreakLabel=58a6ff" />
+</div>
+
+---
+
+### 🏆 At a Glance
+
+<div align="center">
+
+| 🧠 DSA Problems | 🚀 Live Deployments | ⚙️ Tech Stacks | 🔗 100+ REST APIs |
+|:-:|:-:|:-:|:-:|
+| **1000+** | **6+** | **5+** | **Built & Deployed** |
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1a2332,100:0d1117&height=80&section=footer" width="100%"/>
+  
+  <sub><code>// kksingh000 · commits speak louder than words</code></sub>
+</div>
