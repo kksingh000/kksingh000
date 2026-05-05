@@ -1,29 +1,20 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2332,100:58a6ff&height=120&section=header&text=Krishna%20Kumar%20Singh&fontSize=32&fontColor=e6edf3&fontAlignY=65&desc=Full-Stack%20Engineer%20%7C%20AI%20Systems%20%7C%20SaaS%20Architect&descSize=13&descAlignY=85&descColor=58a6ff" width="100%"/>
-</div>
+
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Krishna+Kumar+Singh+%F0%9F%91%8B;Full-Stack+Engineer;AI+Systems+Builder;SaaS+Architect" alt="Typing SVG" />
+</h1>
+
+<p>
+  <em>Building production-grade platforms at the intersection of backend reliability and AI capability.</em><br/>
+  <strong>1000+ DSA problems · 6+ live deployments · Ships fast, scales smart.</strong>
+</p>
 
 <br/>
 
-```
-  ██╗  ██╗██╗  ██╗    ██████╗ ███████╗██╗   ██╗
-  ██║ ██╔╝██║ ██╔╝    ██╔══██╗██╔════╝██║   ██║
-  █████╔╝ █████╔╝     ██║  ██║█████╗  ██║   ██║
-  ██╔═██╗ ██╔═██╗     ██║  ██║██╔══╝  ╚██╗ ██╔╝
-  ██║  ██╗██║  ██╗    ██████╔╝███████╗ ╚████╔╝
-  ╚═╝  ╚═╝╚═╝  ╚═╝    ╚═════╝ ╚══════╝  ╚═══╝
-```
-
-<div align="center">
-
-**`// full-stack · ai-powered systems · saas architect`**
-
-Building production-grade platforms at the intersection of backend reliability and AI capability.
-1000+ DSA problems. Ships fast, scales smart.
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishna-kumar-singh-084b81256)
-[![Portfolio](https://img.shields.io/badge/Portfolio-38bd8c?style=for-the-badge&logo=vercel&logoColor=white)](https://reyva.co.in)
+[![Portfolio](https://img.shields.io/badge/Reyva-38bd8c?style=for-the-badge&logo=vercel&logoColor=white)](https://reyva.co.in)
 [![Codolio](https://img.shields.io/badge/Codolio-d2991b?style=for-the-badge&logo=code&logoColor=white)](https://codolio.com/profile/kksrizzz)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kkandsingh000@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kkandsingh000@gmail.com)
 
 </div>
 
@@ -31,9 +22,9 @@ Building production-grade platforms at the intersection of backend reliability a
 
 ### 🟢 Currently Building
 
-> **SchoolSaavy** — Multi-tenant Laravel + React SaaS platform, live at [schoolsaavy.com](https://schoolsaavy.com)
-> **Indian Legal AI** — RAG-powered assistant scraping IndianKanoon → ChromaDB → GPT-4o-mini
-> Open to **internship / full-time roles** in backend, AI, or full-stack engineering
+> 🏫 **SchoolSaavy** — Multi-tenant Laravel + React SaaS platform, live at [schoolsaavy.com](https://schoolsaavy.com)
+> ⚖️ **Indian Legal AI** — RAG pipeline: IndianKanoon → ChromaDB → GPT-4o-mini
+> 📬 Open to **internship / full-time roles** in backend, AI, or full-stack engineering
 
 ---
 
@@ -76,16 +67,16 @@ Building production-grade platforms at the intersection of backend reliability a
 <tr>
 <td width="50%">
 
-**[SchoolSaavy](https://schoolsaavy.com)**
-> Multi-tenant SaaS school management platform. Students, teachers, fees, exams, attendance — all in one. Built with Laravel + React, deployed on Render + Vercel.
+**[🏫 SchoolSaavy](https://schoolsaavy.com)**
+Multi-tenant SaaS school management. Students, teachers, fees, exams, attendance. Laravel + React, Dockerized on Render.
 
 `PHP` `Laravel` `React` `MySQL` `Docker`
 
 </td>
 <td width="50%">
 
-**[Indian Legal AI](https://github.com/kksingh000)**
-> RAG-powered legal assistant covering constitutional, criminal, contract, property & family law. IndianKanoon → ChromaDB → GPT-4o-mini pipeline.
+**[⚖️ Indian Legal AI](https://github.com/kksingh000)**
+RAG-powered legal assistant. IndianKanoon scraper → ChromaDB → GPT-4o-mini. Covers 5 law categories.
 
 `Python` `FastAPI` `LangChain` `OpenAI` `ChromaDB`
 
@@ -94,16 +85,16 @@ Building production-grade platforms at the intersection of backend reliability a
 <tr>
 <td width="50%">
 
-**[Reyva](https://reyva.co.in)**
-> Production sneaker & sportswear e-commerce. Stripe payments, Clerk auth, real inventory. Fully live.
+**[👟 Reyva](https://reyva.co.in)**
+Production sneaker & sportswear e-commerce. Stripe payments, Clerk auth, live inventory. Fully live.
 
 `TypeScript` `React` `Stripe` `Clerk`
 
 </td>
 <td width="50%">
 
-**[KK Validator](https://kk-validator-frontend.vercel.app)**
-> AI-powered startup idea validator. OpenAI analysis with Supabase persistence. Mock fallback for resilience.
+**[🧠 KK Validator](https://kk-validator-frontend.vercel.app)**
+AI startup idea validator. OpenAI analysis + Supabase persistence. Mock fallback for resilience.
 
 `Node.js` `Express` `OpenAI` `Supabase`
 
@@ -112,16 +103,16 @@ Building production-grade platforms at the intersection of backend reliability a
 <tr>
 <td width="50%">
 
-**[QuickShow](https://movie-ticket-booking-blue-gamma.vercel.app)**
-> Movie ticket booking with trailer integration. Dark UI, seat selection, full booking flow.
+**[🎬 QuickShow](https://movie-ticket-booking-blue-gamma.vercel.app)**
+Movie ticket booking with trailer integration. Seat selection, dark UI, full booking flow.
 
 `JavaScript` `React` `Node.js`
 
 </td>
 <td width="50%">
 
-**[Tasque](https://tasque-frontend.vercel.app)**
-> Team task manager with Kanban board. Dark-themed, real-time ready, role-based access.
+**[📋 Tasque](https://tasque-frontend.vercel.app)**
+Team task manager with Kanban board. Dark-themed, role-based access.
 
 `React` `Node.js` `PostgreSQL`
 
@@ -134,8 +125,8 @@ Building production-grade platforms at the intersection of backend reliability a
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=kksingh000&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=38bd8c&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kksingh000&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kksingh000&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=38bd8c&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kksingh000&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" />
 </div>
 
 <div align="center">
@@ -148,16 +139,14 @@ Building production-grade platforms at the intersection of backend reliability a
 
 <div align="center">
 
-| 🧠 DSA Problems | 🚀 Live Deployments | ⚙️ Tech Stacks | 🔗 100+ REST APIs |
+| 🧠 DSA Problems | 🚀 Live Deployments | ⚙️ Tech Stacks | 🔗 REST APIs |
 |:-:|:-:|:-:|:-:|
-| **1000+** | **6+** | **5+** | **Built & Deployed** |
+| **1000+** | **6+** | **5+** | **100+ Built** |
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1a2332,100:0d1117&height=80&section=footer" width="100%"/>
-  
   <sub><code>// kksingh000 · commits speak louder than words</code></sub>
 </div>
