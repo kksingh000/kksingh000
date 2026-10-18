@@ -125,12 +125,12 @@ Team task manager with Kanban board. Dark-themed, role-based access.
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kksingh000&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=38bd8c&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kksingh000&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kksingh000&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=38bd8c&count_private=true&v=3" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kksingh000&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8&v=3" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kksingh000&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=38bd8c&currStreakLabel=58a6ff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kksingh000&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=38bd8c&currStreakLabel=58a6ff&v=2" />
 </div>
 
 ---
