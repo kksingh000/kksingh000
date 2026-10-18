@@ -22,9 +22,8 @@
 
 ### 🟢 Currently Building
 
-> 🏫 **SchoolSaavy** — Multi-tenant Laravel + React SaaS platform, live at [schoolsaavy.com](https://schoolsaavy.com)
+> 🏫 **SchoolSaavy** — Multi-tenant Laravel + React SaaS platform, live at [schoolsaavy.com](https://schoolsaavy.online)
 > ⚖️ **Indian Legal AI** — RAG pipeline: IndianKanoon → ChromaDB → GPT-4o-mini
-> 📬 Open to **internship / full-time roles** in backend, AI, or full-stack engineering
 
 ---
 
